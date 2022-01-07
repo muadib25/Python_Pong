@@ -9,7 +9,7 @@ followed by clicking on the 'Play' button located on the panel's top-left side.
 Or you can just visit this page for the 1-player game (keys w,s move the platform): 
 http://www.codeskulptor.org/#user43_y6xOM4hJoG_3.py
 
-and this page for the 2-player game (player1 keys w,s | player2 keys : 
+and this page for the 2-player game (player1 keys W & S | player2 keys arrows UP & DOWN): 
 http://www.codeskulptor.org/#user43_Ezs2swGIxK_3.py
 
 Have fun!
